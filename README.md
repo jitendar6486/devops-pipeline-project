@@ -7,3 +7,4 @@ This repository contains a DevOps pipeline project demonstrating continuous inte
 ## 📌 Project Overview
 
 The goal of this project is to automate the build, test, and deployment process of an application using a DevOps pipeline.
+
